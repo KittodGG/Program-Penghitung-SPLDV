@@ -11,7 +11,7 @@ Program ini adalah sebuah solver untuk menyelesaikan sistem persamaan linear den
 
 ### Contoh Penggunaan
 #### Masukkan
-```py
+```yaml
 Masukkan koefisien x pada persamaan 1 : 2
 Masukkan koefisien y pada persamaan 1 : 3
 Masukkan konstanta pada persamaan 1   : 5
@@ -21,7 +21,7 @@ Masukkan koefisien y pada persamaan 2 : -2
 Masukkan konstanta pada persamaan 2   : 8
 ```
 #### Keluaran
-```py
+```yaml
 Persamaan 1: 2x + 3y = 5
 Persamaan 2: 4x - 2y = 8
 
