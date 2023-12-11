@@ -1,7 +1,7 @@
 def solve_equations():
     
     print("===================================================================================================")
-    print("||          Program untuk Menyelesaikan Sistem Persamaan Dua Variabel dan tiga Variabel          ||")
+    print("||                   Program untuk Menyelesaikan Sistem Persamaan Dua Variabel                   ||")
     print("===================================================================================================")
     print("===================================================================================================")
     print("|| Panduan dan Contoh Masukkan Koefisien dan Konstanta:                                          ||")
